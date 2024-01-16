@@ -1,5 +1,6 @@
-import java.util.Scanner;
+//SUJNYAN KINI
 
+import java.util.Scanner;
 class Subject
 {
 	int subjectMarks;
