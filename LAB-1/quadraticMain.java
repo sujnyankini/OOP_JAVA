@@ -1,4 +1,4 @@
-
+//SUJNYAN KINI
 import java.util.Scanner;
 class quadratic
 {
