@@ -40,6 +40,8 @@ class Son extends Father {
     int sonage;
 
     Son() throws WrongAge {
+	    super();
+	    
         System.out.println("Enter son's age");
         sonage = sc.nextInt();
         if (sonAge > fatherAge) {
